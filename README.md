@@ -1,6 +1,6 @@
 # ShopHub E-Commerce Platform
 
-A full-featured e-commerce web application built with the LAMP stack (Linux, Apache, MySQL, PHP) following the MVC architectural pattern.
+A full-featured e-commerce web application built with the WAMP stack (Windows, Apache, MySQL, PHP) following the MVC architectural pattern.
 
 Folder had to be changed for WAMP to work, so to see all previous commit history, visit: https://github.com/benabrey/Ecommerce-final-project
 
