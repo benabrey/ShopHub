@@ -202,7 +202,14 @@ a:hover { color: var(--primary-dark); }
 .products-grid .product-card, .related-products .product-card { overflow: hidden; }
 .product-image-link { display: block; }
 .product-image { width: 100%; height: 200px; object-fit: cover; border-radius: var(--radius-md); margin-bottom: var(--space-sm); }
-.products-grid .product-image, .related-products .product-image img { margin-bottom: 0; }
+.products-grid .product-image, .related-products .product-image { margin-bottom: 0; }
+.related-products .product-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: var(--radius-md);
+}
 .product-info { padding: 1rem; }
 .product-name { font-size: 1rem; margin-bottom: var(--space-xs); color: var(--gray-900); }
 .products-grid .product-name, .related-products .product-info h3 { font-size: 1.125rem; margin-bottom: 0.5rem; }
