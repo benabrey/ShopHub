@@ -17,4 +17,3 @@ CREATE TABLE IF NOT EXISTS cart_items (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
--- TODO: Consider adding session_id for guest cart support (users not logged in)

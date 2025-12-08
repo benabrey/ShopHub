@@ -16,5 +16,3 @@ CREATE TABLE IF NOT EXISTS users (
     INDEX idx_email(email),
     INDEX idx_username(username)
 ) ENGINE=InnoDB DEFAULT CHARSET= utf8mb4
--- TODO: Add password_reset_tokens table for pass recoverdy
--- TODO: Add user_sessions table for management

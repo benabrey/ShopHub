@@ -19,6 +19,3 @@ CREATE TABLE IF NOT EXISTS products (
                                         INDEX idx_name (name)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
--- TODO: Consider creating a categories table for better organization
--- TODO: Consider creating a product_images table for multiple images per product
--- TODO: Consider creating a product_reviews table for customer reviews
