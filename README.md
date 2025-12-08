@@ -389,17 +389,6 @@ Ecommerce_final_project/
 
 ---
 
-## 📈 Project Statistics
-
-- **Lines of Code:** ~5,000+
-- **PHP Files:** 50+
-- **Database Tables:** 5
-- **Product Categories:** 8
-- **Seeded Products:** 36
-- **Development Time:** 10 weeks
-
----
-
 ## 📝 License
 
 This project was created as a final project for COSC 213: Web Development using LAMP at Okanagan College.
